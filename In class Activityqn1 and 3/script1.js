@@ -47,10 +47,10 @@ function calculator(num1, num2, operator) {
 }
 
 // the usage of example:
-console.log(calculator(10, 5, '+')); // returns 15
-console.log(calculator(10, 5, '-')); // returns 5
-console.log(calculator(10, 5, '*')); // returns 50
-console.log(calculator(10, 5, '/')); // returns 2
+console.log(calculator(6, 4, '+')); // returns 10
+console.log(calculator(6, 4, '-')); // returns 2
+console.log(calculator(6, 4, '*')); // returns 24
+console.log(calculator(6, 4, '/')); // returns 1.5
 
 
 
